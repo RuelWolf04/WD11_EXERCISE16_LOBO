@@ -87,6 +87,7 @@ select.user-unit {
 
 #parent-label p{
   background-color: rgb(226, 226, 226);
+  color: black;
   padding: 5px 10px;
   border-radius: 5px;
   position: absolute;
@@ -139,6 +140,7 @@ select.user-unit {
 
 #root-label p {
   background-color: rgb(226, 226, 226);
+  color: black;
   padding: 5px 10px;
   border-radius: 5px;
   position: absolute;
